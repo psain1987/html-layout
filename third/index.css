@@ -1,0 +1,58 @@
+
+
+.row{
+    background-color: gray;
+    box-sizing: border-box;
+    height: 15vh;
+    width: 100%;
+    padding: 20px;
+
+}
+
+
+.header-square{
+    height: 10vh;
+    width: 10vh;
+    background-color: darkturquoise;
+
+}
+
+.big-row{
+    height: 30vh;
+    width: 100%;
+    padding: 10vh;
+    box-sizing: border-box;
+
+}
+
+.big-row-text{
+    font-size: 90;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.row-color{
+    height: 15vh;
+    width: 100vw;
+
+    
+}
+
+#blue{
+    background-color: deepskyblue;
+    
+}
+
+#aqua{
+    background-color: aqua;
+    
+}
+
+#lime{
+    background-color: lime;
+    
+}
+
+#yellow{
+    background-color: yellow;
+    
+}
